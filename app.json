@@ -1,0 +1,12 @@
+{
+  "name": "reacttodolistapp",
+  "displayName": "reacttodolistapp",
+  "expo": {
+    "name": "reacttodolistapp",
+    "slug": "reacttodolistapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
